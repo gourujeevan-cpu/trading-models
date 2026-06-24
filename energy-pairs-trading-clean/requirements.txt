@@ -1,0 +1,10 @@
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+statsmodels>=0.14
+matplotlib>=3.7
+# optional, only for live data (source="yahoo")
+yfinance>=0.2.40
+# dev
+pytest>=7.4
+jupyter>=1.0
